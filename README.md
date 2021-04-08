@@ -1,8 +1,9 @@
 # KerbinSideRemasteredGapExtras
-Additional Kerbal Konstructs Instances for use with Kerbin Side Remastered and Kerbin Side Remastered GAP
+Additional Kerbal Konstructs Airstrips for use with Kerbin Side Remastered  
 
 - Requires: KerbalConstructs
 - Requires: Omega's Stockalike Structures: No Textures Required
 - Requires: Kerbin Side Remastered
-- Requires: Kerbin Side Remastered GAP
+
+- Suggests: Kerbin Side Remastered GAP 
 
