@@ -16,3 +16,6 @@ Contains 20 additional Airstrip locations that;
 - can be usesd to support ground based contracts nearby
 - have Kramax Autopilot Continued flight plans
 - support NavUtil runway settings 
+
+Install:
+- place directory KerbinSideRemasteredGAPExtras and all sub directories and files in your Gamedata directroy (Create if it does not already exist) 
