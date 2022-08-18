@@ -1,9 +1,13 @@
 // NAVInstruments Continued Runways For Kerbin Side Remastered GAP Extas
+// Author: Caerfinon 
+//
+//	To Install: 
+//  Copy this file to GameData/NAVInstruments/ModuleManagerCfgs and change the file extension to .cfg from .txt 
+//
 //-------------------------------------------------------------------
 // Aarash 
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
-{
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 	custom = False
 	ident = Aarash 09
 	shortID = RAS01
@@ -18,7 +22,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Aarash 27
@@ -38,7 +42,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Auyuittuq
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Auyuittuq 05
@@ -54,7 +58,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Auyuittuq 23
@@ -73,7 +77,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Barald's Discovery
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Barald's Discovery 16
@@ -89,7 +93,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Barald's Discovery 34
@@ -109,7 +113,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Dinkelstein' Spirit
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Dinkelstein's Spirit 09
@@ -125,7 +129,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Dinkelstein's Spirit 27
@@ -145,7 +149,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Donfrod's Fortune
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Donfrod's Fortune 05
@@ -161,7 +165,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Donfrod's Fortune 23
@@ -181,7 +185,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Engineer's Luck
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Engineer's Luck 18
@@ -197,7 +201,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Engineer's Luck 36
@@ -216,7 +220,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Handen's Trail
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Handen's Trial 12
@@ -232,7 +236,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Handen's Trial 30
@@ -251,7 +255,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Kazer's Prize
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Kazer's Prize 09
@@ -267,7 +271,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Kazer's Prize 27
@@ -286,7 +290,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Kelrey's Fate
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Kelrey's Fate 05
@@ -302,7 +306,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Kelreys Fate 23
@@ -322,7 +326,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Krakeen's Bane
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Kraken's Bane 01
@@ -338,7 +342,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Kraken's Bane 19
@@ -357,7 +361,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Ludrey's Isolation
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Ludrey's Isolation 12
@@ -373,7 +377,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Ludrey's Isolation 30
@@ -392,7 +396,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Mako Sica
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Mako Sica 14
@@ -408,7 +412,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Mako Sica 32
@@ -427,7 +431,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Maufurt's Pride
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Maufurt's Pride 04
@@ -443,7 +447,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Maufurt's Pride 22
@@ -462,7 +466,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Pilot's Folly
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Pilot's Folly 09
@@ -478,7 +482,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Pilot's Folly 27
@@ -498,7 +502,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Rayzon's  Whim
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Rayzon's Whim 17
@@ -514,7 +518,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Rayzon's Whim 35
@@ -534,7 +538,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Ribster's Dream
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Ribster's Dream 16
@@ -550,7 +554,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Ribster's Dream 34
@@ -569,7 +573,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Scientist's Resignation
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Scientist's Resign 07
@@ -585,7 +589,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Scientist's Resign 25
@@ -605,7 +609,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Sulin's Odyssey
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Sulin's Odyssey 09
@@ -621,7 +625,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Sulin's Odyssey 27
@@ -640,7 +644,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Valdrin's Triumph
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Valdrin's Triumph 14
@@ -656,7 +660,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Valdrin's Triumph 32
@@ -676,7 +680,7 @@ Runway:NEEDS[NAVInstruments]
 //-------------------------------------------------------------------
 // Woomerang
 //-------------------------------------------------------------------
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Woomerang 05
@@ -692,7 +696,7 @@ Runway:NEEDS[NAVInstruments]
 	middleMarkerDist = -1000
 	innerMarkerDist = -1000
 }
-Runway:NEEDS[NAVInstruments]
+Runway:NEEDS[KerbinSideRemasteredGapExtras]
 {
 	custom = False
 	ident = Woomerang 23
