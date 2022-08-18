@@ -1,4 +1,7 @@
 // NAVUtilities Continued Runways For Kerbin Side Remastered GAP Extas
+//
+// If you have NavUtilities by Ser installed simply change the file extention from .txt to .cfg and save.
+// 
 //-------------------------------------------------------------------
 // Aarash 
 //-------------------------------------------------------------------
