@@ -2,9 +2,9 @@
 // Author: Caerfinon 
 //
 //	To Install: 
-//  Copy this file to GameData/NAVInstruments/ModuleManagerCfgs and change the file extension to .cfg from .txt 
+//  Copy this file to GameData/NAVInstruments/ModuleManagerCfgs and change the file extension to .cfg from .txt
 //  (it needs to be in the NAVInstruments directory to keep the correct display order of runways intact 
-//   if you leave it in this directory, then all the airstrips will show before the runways in the mod)  
+//   if you leave it in this directory, then all the airstrips will show before the runways in the mod)
 //
 //-------------------------------------------------------------------
 // Aarash 
