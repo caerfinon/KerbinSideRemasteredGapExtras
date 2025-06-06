@@ -4,7 +4,7 @@
     "name": "Kerbin Side Remastered Gap Extras",
     "abstract": "Additional airstrips for Kerbinside Remastered mod in the hinterlands of Kerbin. Please check the README.md for details and dependencies ",
     "author": "Caerfinon",
-    "version": "v1.0.5",
+    "version": "v1.0.6",
     "ksp_version": "1.12.5",
     "license": "MIT",
     "resources": {
@@ -37,14 +37,6 @@
             "name": "KerbinSideRemasteredGAP"
         }
     ],
-    "download": "https://spacedock.info/mod/2685/Kerbin%20Side%20Remastered%20Gap%20Extras/download/v1.0.5",
-    "download_size": 110097,
-    "download_hash": {
-        "sha1": "ABA3FCDE3CD0EB93B30D15D52855B379BDEBD96F",
-        "sha256": "0CF600B7591C59F3041DB3B17FF3FEC4C36EE75A11A6BC92C0AA4B47A5D05241"
-    },
-    "download_content_type": "application/zip",
-    "install_size": 170065,
-    "release_date": "2022-09-12T01:29:43.273831+00:00",
-    "x_generated_by": "netkan"
+    "download": "https://spacedock.info/mod/2685/Kerbin%20Side%20Remastered%20Gap%20Extras/download/v1.0.6",
+    "download_content_type": "application/zip"
 }
